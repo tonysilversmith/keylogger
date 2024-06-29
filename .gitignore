@@ -1,0 +1,5 @@
+/build
+/master/build
+/slave/build
+/*/*.exe
+*.exe
